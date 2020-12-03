@@ -23,10 +23,10 @@ Check the [course syllabus](INSERT) for more details.
   
 ### Literature Review
 
-Your goal is to identify **10** .
+Your goal is to identify **10** papers in economics, marketing or computer science that are most relevant to your project.
 From these 10, locate the 5 most relevant research papers.
 For these most relevant papers, provide brief summaries using the template provided in the Rmarkdown document.
-Provide the complete reference to the remaning five articles.
+Provide the complete reference to the remaining five articles.
 
 If along the way you have found interesting blog posts related to either the substantive topic or the techniques you are using include links to those in the subsection 'Relevant Blog Posts.'
 

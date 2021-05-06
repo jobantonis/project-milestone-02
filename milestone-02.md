@@ -2,7 +2,7 @@
 title: "Milestone 2 Report"
 author:
     - YOUR_NAME
-date: "02 December, 2020"
+date: "07 May, 2021"
 output: 
   pdf_document:
     keep_md: yes
@@ -15,11 +15,17 @@ urlcolor: blue
 **NOTES:** Complete the relevant parts of this template.
 Delete the instructions sections before submission so they are not included in your word count. 
 
+## Research Question
+
+**Instructions:** Re-state your research question from Milestone 1. 
+If you have further refined it, that is OK.
+
 ## Literature Review
 
-### Five Most Relevant Papers
+### Three Most Relevant Papers
 
-**Instructions:** Complete the review templates for the five papers you deem most relavant to your project.
+**Instructions:** Complete the review templates for the three papers you deem most relavant to your project.
+The repository's README file provides some further details on what to include for each component.
 
 #### Paper 1
 
@@ -29,7 +35,6 @@ Delete the instructions sections before submission so they are not included in y
 * **Main Data Source**:
 * **Methods:**
 * **Main takeaway**:
-* **My assessment:**
 
 #### Paper 2
 
@@ -39,7 +44,6 @@ Delete the instructions sections before submission so they are not included in y
 * **Main Data Source**:
 * **Methods:**
 * **Main takeaway**:
-* **My assessment:**
 
 #### Paper 3
 
@@ -49,56 +53,53 @@ Delete the instructions sections before submission so they are not included in y
 * **Main Data Source**:
 * **Methods:**
 * **Main takeaway**:
-* **My assessment:**
-
-#### Paper 4
-
-* **Citation:**
-* **Research Question**:
-* **Question Type:**
-* **Main Data Source**:
-* **Methods:**
-* **Main takeaway**:
-* **My assessment:**
-
-#### Paper 5
-
-* **Citation:**
-* **Research Question**:
-* **Question Type:**
-* **Main Data Source**:
-* **Methods:**
-* **Main takeaway**:
-* **My assessment:**
-
-### Five Additional Relevant Papers
-
-**Instructions:** Provide the full citation for 5 additional papers that are relevant to your project.
-
-* ...
 
 ### Relevant Blog Posts (if any)
 
 **Instructions:** Provide the name and link to any blog posts you have found that are relevant to your final project.
+These can be either related to the marketing topic, or the statistical methods you plan to use.
+If there are none, write "None."
 
 * ...
 
 ## Exploratory Data Analysis
 
+**Instructions:** Provide either a descriptive table or a descriptive figure that motivates further analysis.
+Typically this will show some evidence suggesting a pattern in the data you will be aiming to document that you will explore further in Milestone 3.
+Describe your findings in a short paragraph (i.e. max 5 sentences).
+
+**Delete headings, code chunks and text below as appropriate.**
+
+I will present a **descriptive table**/**descriptive figure**.
+
 ### Descriptive Statistics Table
 
-(INSERT TABLE)
+
+
+
+
+
+```r
+# WRITE CODE TO PRODUCE TABLE
+```
 
 (INSERT PARAGRAPH DESCRIBING TAKEAWAYS)
 
-### Main Figure
+### Descriptive Figure
 
-(INSERT FIGURE)
+
+
+
+
+
+```r
+# WRITE CODE TO PRODUCE FIGURE
+```
 
 (INSERT PARAGRAPH DESCRIBING TAKEAWAYS)
 
 ## Word Count
 
-Number of Words: 190
+Number of Words: 257
 
 ## References

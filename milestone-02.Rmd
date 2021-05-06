@@ -70,7 +70,7 @@ If there are none, write "None."
 Typically this will show some evidence suggesting a pattern in the data you will be aiming to document that you will explore further in Milestone 3.
 Describe your findings in a short paragraph (i.e. max 5 sentences).
 
-**Delete headings and text below as appropriate.**
+**Delete headings, code chunks and text below as appropriate.**
 
 I will present a **descriptive table**/**descriptive figure**.
 

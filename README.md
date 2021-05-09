@@ -23,10 +23,11 @@ Your most recent commit that is on the `main` branch before the due date will be
 
 1. Clone the repository to your machine.
 2. Update the meta-information above.
-3. Complete the the milestine using `milestone-02.Rmd`
+3. Modify the script `data/download_data.R` so that it downloads the data you use for the this milestone from the internet.
+4. Complete the the milestone using `milestone-02.Rmd`
   * Use the template "as-is", do not modify headings, fonts, font-sizes etc.
   * **The word limit is 600 words**. This is an upper bound, you can do it in less and are encouraged to.
-4. Upload the completed Rmd file and the **pdf** output before the deadline.
+5. Upload the completed Rmd file and the **pdf** output before the deadline.
   
 ### Literature Review
 

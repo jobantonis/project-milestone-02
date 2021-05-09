@@ -2,17 +2,17 @@
 title: "Milestone 2 Report"
 author:
     - YOUR_NAME
-date: "07 May, 2021"
+date: "09 May, 2021"
 output: 
   pdf_document:
     keep_md: yes
 urlcolor: blue
-#bibliography: references.bib
+bibliography: references.bib
 ---
 
 
 
-**NOTES:** Complete the relevant parts of this template.
+**Instructions:** Complete the relevant parts of this template.
 Delete the instructions sections before submission so they are not included in your word count. 
 
 ## Research Question
@@ -64,15 +64,13 @@ If there are none, write "None."
 
 ## Exploratory Data Analysis
 
-**Instructions:** Provide either a descriptive table or a descriptive figure that motivates further analysis.
+**Instructions:** Provide **EITHER** a descriptive table **OR** a descriptive figure that motivates further analysis.
 Typically this will show some evidence suggesting a pattern in the data you will be aiming to document that you will explore further in Milestone 3.
 Describe your findings in a short paragraph (i.e. max 5 sentences).
 
 **Delete headings, code chunks and text below as appropriate.**
 
-I will present a **descriptive table**/**descriptive figure**.
-
-### Descriptive Statistics Table
+### (OPTION 1) Descriptive Table
 
 
 
@@ -85,7 +83,7 @@ I will present a **descriptive table**/**descriptive figure**.
 
 (INSERT PARAGRAPH DESCRIBING TAKEAWAYS)
 
-### Descriptive Figure
+### (OPTION 2) Descriptive Figure
 
 
 
@@ -100,6 +98,6 @@ I will present a **descriptive table**/**descriptive figure**.
 
 ## Word Count
 
-Number of Words: 257
+Number of Words: 252
 
 ## References

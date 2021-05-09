@@ -49,9 +49,9 @@ If along the way you have found interesting blog posts related to either the sub
 
 ### Exploratory Data Analysis
 
-In the section 'Exploratory Data Analysis' provide either:
+In the section 'Exploratory Data Analysis' provide **either**:
 
-1. A table of descriptive statistics for the key variables you will use in your analysis and is suggestive of the relationship you want to study further.
+1. A table of descriptive statistics for the key variables you will use in your analysis and is suggestive of the relationship you want to study further, OR
 2. A figure which highlights the key data pattern you are studying.
 
 Write a short paragraph explaining the main takeaways. 

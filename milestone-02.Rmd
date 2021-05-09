@@ -66,8 +66,8 @@ If there are none, write "None."
 
 ## Exploratory Data Analysis
 
-**Instructions:** Provide **EITHER** a descriptive table **OR** a descriptive figure that motivates further analysis.
-Typically this will show some evidence suggesting a pattern in the data you will be aiming to document that you will explore further in Milestone 3.
+**Instructions:** Provide **EITHER** one descriptive table **OR** one descriptive figure that motivates further analysis.
+Typically this will show some evidence suggesting a pattern in the data you will be aiming to document and explore further in Milestone 3.
 Describe your findings in a short paragraph (i.e. max 5 sentences).
 
 **Delete headings, code chunks and text below as appropriate.**

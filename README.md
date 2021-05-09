@@ -51,8 +51,8 @@ If along the way you have found interesting blog posts related to either the sub
 
 In the section 'Exploratory Data Analysis' provide **either**:
 
-1. A table of descriptive statistics for the key variables you will use in your analysis and is suggestive of the relationship you want to study further, OR
-2. A figure which highlights the key data pattern you are studying.
+1. **ONE** table of descriptive statistics for the key variables you will use in your analysis and is suggestive of the relationship you want to study further, OR
+2. **ONE** figure which highlights the key data pattern you are studying.
 
 Write a short paragraph explaining the main takeaways. 
 If you have filtered your dataset in any way by dropping rows of data, justify why what you have done is appropriate in this paragraph. 

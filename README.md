@@ -8,9 +8,9 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/
 
 ## Meta-Information 
 
-* Name: YOUR_NAME
-* GitHub Handle: YOUR_GH_HANDLE
-* Proposed Project Title: YOUR_TITLE
+* Name: Job Antonis
+* GitHub Handle: @jobantonis
+* Proposed Project Title: The effects of football-related events: Twitter activity and sentiment
 
 ## Grading Information:
 
